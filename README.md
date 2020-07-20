@@ -1,7 +1,14 @@
 # PaymentsDS MPesa SDK
-PaymentsDS MPesa SDK is a set of libraries aiming to make very easy for developers to integrate every [MPesa](https://developers.mpesa.vm.co.mz) operations in their applications. We aim to provide a simple and consistent experience across many platforms. Currently libraries for [JS](https://github.com/paymentsds/mpesa-js-sdk), [PHP](https://github.com/paymentsds/mpesa-php-sdk), [Ruby](https://github.com/paymentsds/mpesa-ruby-sdk) and [Python](https://github.com/paymentsds/mpesa-python-sdk) are provided.
+PaymentsDS MPesa SDK is a set of unofficial libraries aiming to make easy for developers to integrate every [MPesa](https://developers.mpesa.vm.co.mz) operations to their applications in a simple and consistent experience across many platforms. Currently we provide libraries for JS, PHP, Ruby and Python, you can learn about them browsing the following repositories:
+
+- [Mpesa JS SDK](https://github.com/paymentsds/mpesa-js-sdk) 
+- [Mpesa PHP SDK](https://github.com/paymentsds/mpesa-php-sdk) 
+- [Mpesa Ruby SDK](https://github.com/paymentsds/mpesa-ruby-sdk)
+- [Mpesa Python SDK](https://github.com/paymentsds/mpesa-python-sdk)
 
 ## Authors
+- [Edson Michaque](https://github.com/edsonmichaque)
+- [Nélio Macombo](https://github.com/neliomacombo)
 
 ## Contributing
 
