@@ -1,12 +1,12 @@
-[submodule "js"]
-	path = js
+[submodule "src/js"]
+	path = src/js
 	url = https://github.com/paymentsds/mpesa-js-sdk
-[submodule "ruby"]
-	path = ruby
-	url = https://github.com/paymentsds/mpesa-ruby-sdk
-[submodule "python"]
-	path = python
-	url = https://github.com/paymentsds/mpesa-python-sdk
-[submodule "php"]
-	path = php
+[submodule "src/php"]
+	path = src/php
 	url = https://github.com/paymentsds/mpesa-php-sdk
+[submodule "src/python"]
+	path = src/python
+	url = https://github.com/paymentsds/mpesa-python-sdk
+[submodule "src/ruby"]
+	path = src/ruby
+	url = https://github.com/paymentsds/mpesa-ruby-sdk
