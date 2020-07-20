@@ -11,6 +11,7 @@ PaymentsDS MPesa SDK is a set of unofficial libraries aiming to make easy for de
 - [Nélio Macombo](https://github.com/neliomacombo)
 
 ## Contributing <a name="#"></a>
+We'd love to have you as a contributor. Each library has specific contributing guidelines, please check them in order to proceed.
 
 ## License <a name="#"></a>
 
