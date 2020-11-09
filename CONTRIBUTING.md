@@ -52,7 +52,7 @@ git remote add upstream https://github.com/paymentsds/mpesa-sdk
 2. Make your changes in a new branch:
 
 ```bash
-git checkout -b my-fix-branch master
+git checkout -b my-fix-branch develop
 ```
 
 3. Commit the changes using a descriptive commit message
@@ -77,7 +77,7 @@ git push origin my-fix-branch
   * Rebase your branch and force push to your GitHub repository (this updates your Pull Request):
     ```bash
     # Rebase the branch
-    git rebase master -i
+    git rebase develop -i
     # Update the Pull Request
     git push origin my-fix-branch -f
     ```
@@ -94,10 +94,10 @@ You can delete your branch and pull changes from the original
 git push origin --delete my-fix-branch
 ```
 
-2. Check out the master branch:
+2. Check out our main branch (`develop`):
 
 ```bash
-git checkout master -f
+git checkout develop -f
 ```
 
 3. Delete the local branch:
@@ -106,10 +106,10 @@ git checkout master -f
 git branch -D my-fix-branch
 ```
 
-4. Update your master with the latest upstream version:
+4. Update your fork's main branch (`develop`) with the latest upstream version:
 
 ```bash
-git pull --ff upstream master
+git pull --ff upstream develop
 ```
 ---
 
